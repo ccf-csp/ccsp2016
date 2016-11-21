@@ -6,7 +6,7 @@
 
 在`git clone`的时候加上`--recursive`可以一并把这个子工程拿下来：
 ```
-git clone --recursive git@git.oschina.net:mulab/CTT2016.git
+git clone --recursive git@git.oschina.net:mulab/CCSP2016.git
 ```
 
 已经clone下来但子工程是一个空文件的，用下列方式更新：
