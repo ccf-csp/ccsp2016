@@ -1,0 +1,18 @@
+{
+	"cnname" : "选座",
+	"type" : "program",
+	"time limit" : 1.0,
+	"memory limit" : "2 GB",
+	"test cases" : 25,
+	"compile" : {
+		"cpp" : "-O2 -lm",
+		"c" : "-O2 -lm",
+		"pas" : "-O2"
+	},
+	"sample count" : 2,
+	"args" : {
+		"n" : 1000000,
+		"k" : 999999
+	},
+	"data" : []
+}
