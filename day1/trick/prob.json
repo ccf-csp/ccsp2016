@@ -1,0 +1,19 @@
+{
+	"cnname" : "虚拟机设计（第一部分）",
+	"type" : "program",
+	"time limit" : 1.0,
+	"memory limit" : "2 GB",
+	"test cases" : 15,
+	"score" : 105,
+	"compile" : {
+		"cpp" : "-O2 -lm",
+		"c" : "-O2 -lm",
+		"pas" : "-O2"
+	},
+	"sample count" : 4,
+	"args" : {
+		"mem_start" : "3000",
+		"mem_end" : "B000"
+	},
+	"data" : []
+}
