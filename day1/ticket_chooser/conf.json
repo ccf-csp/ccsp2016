@@ -1,0 +1,53 @@
+{
+  "args": {
+    "k": 300001,
+    "n": 300000
+  },
+  "compile": {
+    "c": "-O2 -lm",
+    "cpp": "-O2 -lm",
+    "pas": "-O2"
+  },
+  "data": [
+    {
+      "cases": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "2 GB",
+  "name": "ticket_chooser",
+  "samples": [
+    {
+      "cases": [
+        1,
+        2
+      ]
+    }
+  ],
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "\u9009\u5ea7"
+  },
+  "type": "program",
+  "users": {
+    "HaHaTa": {
+      "Naive/ticket_chooser.cpp": "HaHaTa/Naive/ticket_chooser.cpp",
+      "Young_Simple/ticket_chooser.cpp": "HaHaTa/Young_Simple/ticket_chooser.cpp"
+    },
+    "dkf": {
+      "std/code.cpp": "dkf/std/code.cpp"
+    }
+  },
+  "version": 0
+}

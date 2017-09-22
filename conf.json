@@ -1,0 +1,14 @@
+{
+  "folder": "contest",
+  "name": "ccsp2016",
+  "short title": {
+    "zh-cn": "CCF-CCSP-2016"
+  },
+  "subdir": [
+    "day1"
+  ],
+  "title": {
+    "zh-cn": "中国大学生计算机系统与程序设计竞赛"
+  },
+  "version": 0
+}

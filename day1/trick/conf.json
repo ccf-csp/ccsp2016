@@ -1,0 +1,137 @@
+{
+  "args": {
+    "mem_end": "B000",
+    "mem_start": "3000"
+  },
+  "compile": {
+    "c": "-O2 -lm",
+    "cpp": "-O2 -lm",
+    "pas": "-O2"
+  },
+  "data": [
+    {
+      "cases": [
+        1
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        2
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        3
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        4
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        5
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        6
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        7
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        8
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        9
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        10
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        11
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        12
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        13
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        14
+      ],
+      "score": 7
+    },
+    {
+      "cases": [
+        15
+      ],
+      "score": 7
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "2 GB",
+  "name": "trick",
+  "packed": true,
+  "samples": [
+    {
+      "cases": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "score": 105,
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "\u865a\u62df\u673a\u8bbe\u8ba1\uff08\u7b2c\u4e00\u90e8\u5206\uff09"
+  },
+  "type": "program",
+  "users": {
+    "HaHaTa": {
+      "std/trick.cpp": "HaHaTa/std/trick.cpp",
+      "std/val.cpp": "HaHaTa/std/val.cpp"
+    },
+    "caicai": {
+      "std/trick.cpp": "caicai/std/trick.cpp"
+    },
+    "dkf": {
+      "std/code.cpp": "dkf/std/code.cpp",
+      "std/trick.cpp": "dkf/std/trick.cpp"
+    }
+  },
+  "version": 0
+}
